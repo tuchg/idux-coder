@@ -1,3 +1,14 @@
+## [1.0.2](https://github.com/IDuxFE/idux-coder/compare/v1.0.1...v1.0.2) (2022-08-23)
+
+
+### Bug Fixes
+
+* custom apis invalid ([627c10f](https://github.com/IDuxFE/idux-coder/commit/627c10f159ad9915a3c0e3fc7204963a70d66ca3))
+* invalid custom perfix ([78d76a9](https://github.com/IDuxFE/idux-coder/commit/78d76a9a1182eda3bf3b9ad45485d9b1589644d8))
+* lower compatible versions ([af8dd2b](https://github.com/IDuxFE/idux-coder/commit/af8dd2bfaed126e7e4f150a71f996b53a6167673))
+
+
+
 ## [1.0.1](https://github.com/IDuxFE/idux-coder/compare/v1.0.0...v1.0.1) (2022-08-12)
 
 
